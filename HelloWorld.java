@@ -27,13 +27,5 @@ public class HelloWorld {
         System.out.println("Hi bye");
         System.out.println("Hi bye");
         System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("ystem.out.println("Hi bye");
     }
-
 }
