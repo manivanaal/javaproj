@@ -10,22 +10,5 @@ public class HelloWorld {
         System.out.println("Hello World, DevOps has arrived!");
         System.out.println("Hello World, DevOps has arrived!");
         System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hello World, DevOps has arrived!");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
-        System.out.println("Hi bye");
     }
-}
+}    
